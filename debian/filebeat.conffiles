@@ -1,0 +1,4 @@
+/etc/filebeat/filebeat.full.yml
+/etc/filebeat/filebeat.yml
+/etc/filebeat/filebeat.template.json
+/etc/filebeat/filebeat.template-es2x.json

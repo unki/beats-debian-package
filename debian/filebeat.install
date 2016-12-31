@@ -1,0 +1,12 @@
+filebeat/filebeat.full.yml /etc/filebeat/
+filebeat/filebeat.template-es2x.json /etc/filebeat/
+filebeat/filebeat.template.json /etc/filebeat/
+filebeat/filebeat.yml /etc/filebeat/
+bin/filebeat /usr/share/filebeat/bin/
+#logstash-core-queue-jruby /usr/share/logstash/
+#logstash-core-event-java /usr/share/logstash/
+#logstash-core-plugin-api /usr/share/logstash/
+#logstash-core /usr/share/logstash/
+#lib /usr/share/logstash/
+#bin /usr/share/logstash/
+#vendor /usr/share/logstash/
